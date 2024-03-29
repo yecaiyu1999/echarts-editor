@@ -1,0 +1,3274 @@
+[
+  {
+    "label": "color",
+    "type": "keyword"
+  },
+  {
+    "label": "shadowColor",
+    "type": "keyword"
+  },
+  {
+    "label": "shadowBlur",
+    "type": "keyword"
+  },
+  {
+    "label": "shadowOffsetX",
+    "type": "keyword"
+  },
+  {
+    "label": "shadowOffsetY",
+    "type": "keyword"
+  },
+  {
+    "label": "borderColor",
+    "type": "keyword"
+  },
+  {
+    "label": "borderWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "width",
+    "type": "keyword"
+  },
+  {
+    "label": "borderType",
+    "type": "keyword"
+  },
+  {
+    "label": "borderDashOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "height",
+    "type": "keyword"
+  },
+  {
+    "label": "backgroundColor",
+    "type": "keyword"
+  },
+  {
+    "label": "fontSize",
+    "type": "keyword"
+  },
+  {
+    "label": "fontStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "fontWeight",
+    "type": "keyword"
+  },
+  {
+    "label": "fontFamily",
+    "type": "keyword"
+  },
+  {
+    "label": "lineHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "textBorderColor",
+    "type": "keyword"
+  },
+  {
+    "label": "textBorderWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "textBorderType",
+    "type": "keyword"
+  },
+  {
+    "label": "textBorderDashOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "textShadowColor",
+    "type": "keyword"
+  },
+  {
+    "label": "textShadowBlur",
+    "type": "keyword"
+  },
+  {
+    "label": "textShadowOffsetX",
+    "type": "keyword"
+  },
+  {
+    "label": "textShadowOffsetY",
+    "type": "keyword"
+  },
+  {
+    "label": "padding",
+    "type": "keyword"
+  },
+  {
+    "label": "borderRadius",
+    "type": "keyword"
+  },
+  {
+    "label": "align",
+    "type": "keyword"
+  },
+  {
+    "label": "verticalAlign",
+    "type": "keyword"
+  },
+  {
+    "label": "opacity",
+    "type": "keyword"
+  },
+  {
+    "label": "show",
+    "type": "keyword"
+  },
+  {
+    "label": "ellipsis",
+    "type": "keyword"
+  },
+  {
+    "label": "overflow",
+    "type": "keyword"
+  },
+  {
+    "label": "position",
+    "type": "keyword"
+  },
+  {
+    "label": "rich",
+    "type": "keyword"
+  },
+  {
+    "label": "<style_label>",
+    "type": "keyword"
+  },
+  {
+    "label": "distance",
+    "type": "keyword"
+  },
+  {
+    "label": "label",
+    "type": "keyword"
+  },
+  {
+    "label": "type",
+    "type": "keyword"
+  },
+  {
+    "label": "rotate",
+    "type": "keyword"
+  },
+  {
+    "label": "offset",
+    "type": "keyword"
+  },
+  {
+    "label": "itemStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "formatter",
+    "type": "keyword"
+  },
+  {
+    "label": "borderCap",
+    "type": "keyword"
+  },
+  {
+    "label": "borderJoin",
+    "type": "keyword"
+  },
+  {
+    "label": "borderMiterLimit",
+    "type": "keyword"
+  },
+  {
+    "label": "miterLimit",
+    "type": "keyword"
+  },
+  {
+    "label": "lineStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "dashOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "cap",
+    "type": "keyword"
+  },
+  {
+    "label": "disabled",
+    "type": "keyword"
+  },
+  {
+    "label": "emphasis",
+    "type": "keyword"
+  },
+  {
+    "label": "blur",
+    "type": "keyword"
+  },
+  {
+    "label": "label",
+    "type": "keyword"
+  },
+  {
+    "label": "curveness",
+    "type": "keyword"
+  },
+  {
+    "label": "symbol",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolSize",
+    "type": "keyword"
+  },
+  {
+    "label": "x",
+    "type": "keyword"
+  },
+  {
+    "label": "y",
+    "type": "keyword"
+  },
+  {
+    "label": "delay",
+    "type": "keyword"
+  },
+  {
+    "label": "value",
+    "type": "keyword"
+  },
+  {
+    "label": "duration",
+    "type": "keyword"
+  },
+  {
+    "label": "easing",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolKeepAspect",
+    "type": "keyword"
+  },
+  {
+    "label": "silent",
+    "type": "keyword"
+  },
+  {
+    "label": "labelLine",
+    "type": "keyword"
+  },
+  {
+    "label": "rotation",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "transition",
+    "type": "keyword"
+  },
+  {
+    "label": "animationDuration",
+    "type": "keyword"
+  },
+  {
+    "label": "animationEasing",
+    "type": "keyword"
+  },
+  {
+    "label": "animationDelay",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolRotate",
+    "type": "keyword"
+  },
+  {
+    "label": "data",
+    "type": "keyword"
+  },
+  {
+    "label": "animation",
+    "type": "keyword"
+  },
+  {
+    "label": "animationDurationUpdate",
+    "type": "keyword"
+  },
+  {
+    "label": "animationThreshold",
+    "type": "keyword"
+  },
+  {
+    "label": "animationEasingUpdate",
+    "type": "keyword"
+  },
+  {
+    "label": "animationDelayUpdate",
+    "type": "keyword"
+  },
+  {
+    "label": "id",
+    "type": "keyword"
+  },
+  {
+    "label": "z",
+    "type": "keyword"
+  },
+  {
+    "label": "textStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "style",
+    "type": "keyword"
+  },
+  {
+    "label": "select",
+    "type": "keyword"
+  },
+  {
+    "label": "zlevel",
+    "type": "keyword"
+  },
+  {
+    "label": "tooltip",
+    "type": "keyword"
+  },
+  {
+    "label": "coord",
+    "type": "keyword"
+  },
+  {
+    "label": "valueIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "valueDim",
+    "type": "keyword"
+  },
+  {
+    "label": "valueFormatter",
+    "type": "keyword"
+  },
+  {
+    "label": "extraCssText",
+    "type": "keyword"
+  },
+  {
+    "label": "focus",
+    "type": "keyword"
+  },
+  {
+    "label": "blurScope",
+    "type": "keyword"
+  },
+  {
+    "label": "inside",
+    "type": "keyword"
+  },
+  {
+    "label": "interval",
+    "type": "keyword"
+  },
+  {
+    "label": "left",
+    "type": "keyword"
+  },
+  {
+    "label": "top",
+    "type": "keyword"
+  },
+  {
+    "label": "right",
+    "type": "keyword"
+  },
+  {
+    "label": "bottom",
+    "type": "keyword"
+  },
+  {
+    "label": "draggable",
+    "type": "keyword"
+  },
+  {
+    "label": "decal",
+    "type": "keyword"
+  },
+  {
+    "label": "dashArrayX",
+    "type": "keyword"
+  },
+  {
+    "label": "dashArrayY",
+    "type": "keyword"
+  },
+  {
+    "label": "maxTileWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "maxTileHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "xAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "yAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "0",
+    "type": "keyword"
+  },
+  {
+    "label": "1",
+    "type": "keyword"
+  },
+  {
+    "label": "margin",
+    "type": "keyword"
+  },
+  {
+    "label": "loop",
+    "type": "keyword"
+  },
+  {
+    "label": "precision",
+    "type": "keyword"
+  },
+  {
+    "label": "hideOverlap",
+    "type": "keyword"
+  },
+  {
+    "label": "origin",
+    "type": "keyword"
+  },
+  {
+    "label": "scaleX",
+    "type": "keyword"
+  },
+  {
+    "label": "scaleY",
+    "type": "keyword"
+  },
+  {
+    "label": "originX",
+    "type": "keyword"
+  },
+  {
+    "label": "originY",
+    "type": "keyword"
+  },
+  {
+    "label": "enterFrom",
+    "type": "keyword"
+  },
+  {
+    "label": "leaveTo",
+    "type": "keyword"
+  },
+  {
+    "label": "enterAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "updateAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "leaveAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "keyframeAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "keyframes",
+    "type": "keyword"
+  },
+  {
+    "label": "info",
+    "type": "keyword"
+  },
+  {
+    "label": "ignore",
+    "type": "keyword"
+  },
+  {
+    "label": "textContent",
+    "type": "keyword"
+  },
+  {
+    "label": "textConfig",
+    "type": "keyword"
+  },
+  {
+    "label": "layoutRect",
+    "type": "keyword"
+  },
+  {
+    "label": "local",
+    "type": "keyword"
+  },
+  {
+    "label": "insideFill",
+    "type": "keyword"
+  },
+  {
+    "label": "insideStroke",
+    "type": "keyword"
+  },
+  {
+    "label": "outsideFill",
+    "type": "keyword"
+  },
+  {
+    "label": "outsideStroke",
+    "type": "keyword"
+  },
+  {
+    "label": "during",
+    "type": "keyword"
+  },
+  {
+    "label": "selectedMode",
+    "type": "keyword"
+  },
+  {
+    "label": "invisible",
+    "type": "keyword"
+  },
+  {
+    "label": "fill",
+    "type": "keyword"
+  },
+  {
+    "label": "stroke",
+    "type": "keyword"
+  },
+  {
+    "label": "lineWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "lineDash",
+    "type": "keyword"
+  },
+  {
+    "label": "lineDashOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "lineCap",
+    "type": "keyword"
+  },
+  {
+    "label": "lineJoin",
+    "type": "keyword"
+  },
+  {
+    "label": "smooth",
+    "type": "keyword"
+  },
+  {
+    "label": "areaStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "shape",
+    "type": "keyword"
+  },
+  {
+    "label": "splitNumber",
+    "type": "keyword"
+  },
+  {
+    "label": "cursor",
+    "type": "keyword"
+  },
+  {
+    "label": "showAbove",
+    "type": "keyword"
+  },
+  {
+    "label": "labelLayout",
+    "type": "keyword"
+  },
+  {
+    "label": "moveOverlap",
+    "type": "keyword"
+  },
+  {
+    "label": "dx",
+    "type": "keyword"
+  },
+  {
+    "label": "dy",
+    "type": "keyword"
+  },
+  {
+    "label": "labelLinePoints",
+    "type": "keyword"
+  },
+  {
+    "label": "progressive",
+    "type": "keyword"
+  },
+  {
+    "label": "length2",
+    "type": "keyword"
+  },
+  {
+    "label": "icon",
+    "type": "keyword"
+  },
+  {
+    "label": "colorBy",
+    "type": "keyword"
+  },
+  {
+    "label": "minTurnAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "min",
+    "type": "keyword"
+  },
+  {
+    "label": "max",
+    "type": "keyword"
+  },
+  {
+    "label": "xAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "yAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "enabled",
+    "type": "keyword"
+  },
+  {
+    "label": "scale",
+    "type": "keyword"
+  },
+  {
+    "label": "areaColor",
+    "type": "keyword"
+  },
+  {
+    "label": "coordinateSystem",
+    "type": "keyword"
+  },
+  {
+    "label": "markPoint",
+    "type": "keyword"
+  },
+  {
+    "label": "markLine",
+    "type": "keyword"
+  },
+  {
+    "label": "markArea",
+    "type": "keyword"
+  },
+  {
+    "label": "dataGroupId",
+    "type": "keyword"
+  },
+  {
+    "label": "universalTransition",
+    "type": "keyword"
+  },
+  {
+    "label": "seriesKey",
+    "type": "keyword"
+  },
+  {
+    "label": "divideShape",
+    "type": "keyword"
+  },
+  {
+    "label": "minAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "z2",
+    "type": "keyword"
+  },
+  {
+    "label": "extra",
+    "type": "keyword"
+  },
+  {
+    "label": "orient",
+    "type": "keyword"
+  },
+  {
+    "label": "iconStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "$action",
+    "type": "keyword"
+  },
+  {
+    "label": "bounding",
+    "type": "keyword"
+  },
+  {
+    "label": "onclick",
+    "type": "keyword"
+  },
+  {
+    "label": "onmouseover",
+    "type": "keyword"
+  },
+  {
+    "label": "onmouseout",
+    "type": "keyword"
+  },
+  {
+    "label": "onmousemove",
+    "type": "keyword"
+  },
+  {
+    "label": "onmousewheel",
+    "type": "keyword"
+  },
+  {
+    "label": "onmousedown",
+    "type": "keyword"
+  },
+  {
+    "label": "onmouseup",
+    "type": "keyword"
+  },
+  {
+    "label": "ondrag",
+    "type": "keyword"
+  },
+  {
+    "label": "ondragstart",
+    "type": "keyword"
+  },
+  {
+    "label": "ondragend",
+    "type": "keyword"
+  },
+  {
+    "label": "ondragenter",
+    "type": "keyword"
+  },
+  {
+    "label": "ondragleave",
+    "type": "keyword"
+  },
+  {
+    "label": "ondragover",
+    "type": "keyword"
+  },
+  {
+    "label": "ondrop",
+    "type": "keyword"
+  },
+  {
+    "label": "legendHoverLink",
+    "type": "keyword"
+  },
+  {
+    "label": "groupId",
+    "type": "keyword"
+  },
+  {
+    "label": "childGroupId",
+    "type": "keyword"
+  },
+  {
+    "label": "upperLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "emphasisDisabled",
+    "type": "keyword"
+  },
+  {
+    "label": "dimensions",
+    "type": "keyword"
+  },
+  {
+    "label": "encode",
+    "type": "keyword"
+  },
+  {
+    "label": "axisPointer",
+    "type": "keyword"
+  },
+  {
+    "label": "snap",
+    "type": "keyword"
+  },
+  {
+    "label": "shadowStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "r",
+    "type": "keyword"
+  },
+  {
+    "label": "morph",
+    "type": "keyword"
+  },
+  {
+    "label": "title",
+    "type": "keyword"
+  },
+  {
+    "label": "textAlign",
+    "type": "keyword"
+  },
+  {
+    "label": "triggerEvent",
+    "type": "keyword"
+  },
+  {
+    "label": "inverse",
+    "type": "keyword"
+  },
+  {
+    "label": "axisLine",
+    "type": "keyword"
+  },
+  {
+    "label": "axisTick",
+    "type": "keyword"
+  },
+  {
+    "label": "axisLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "center",
+    "type": "keyword"
+  },
+  {
+    "label": "startAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "geoIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "clip",
+    "type": "keyword"
+  },
+  {
+    "label": "seriesLayoutBy",
+    "type": "keyword"
+  },
+  {
+    "label": "datasetIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "boundaryGap",
+    "type": "keyword"
+  },
+  {
+    "label": "showMinLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "showMaxLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "splitLine",
+    "type": "keyword"
+  },
+  {
+    "label": "size",
+    "type": "keyword"
+  },
+  {
+    "label": "throttle",
+    "type": "keyword"
+  },
+  {
+    "label": "polarIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "clockwise",
+    "type": "keyword"
+  },
+  {
+    "label": "cx",
+    "type": "keyword"
+  },
+  {
+    "label": "cy",
+    "type": "keyword"
+  },
+  {
+    "label": "color0",
+    "type": "keyword"
+  },
+  {
+    "label": "borderColor0",
+    "type": "keyword"
+  },
+  {
+    "label": "borderColorDoji",
+    "type": "keyword"
+  },
+  {
+    "label": "labelGap",
+    "type": "keyword"
+  },
+  {
+    "label": "minInterval",
+    "type": "keyword"
+  },
+  {
+    "label": "maxInterval",
+    "type": "keyword"
+  },
+  {
+    "label": "logBase",
+    "type": "keyword"
+  },
+  {
+    "label": "alignWithLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "minorTick",
+    "type": "keyword"
+  },
+  {
+    "label": "endAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "text",
+    "type": "keyword"
+  },
+  {
+    "label": "labelLocation",
+    "type": "keyword"
+  },
+  {
+    "label": "labelTextStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "labelRotate",
+    "type": "keyword"
+  },
+  {
+    "label": "labelTruncate",
+    "type": "keyword"
+  },
+  {
+    "label": "maxWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "splitArea",
+    "type": "keyword"
+  },
+  {
+    "label": "triggerEmphasis",
+    "type": "keyword"
+  },
+  {
+    "label": "triggerTooltip",
+    "type": "keyword"
+  },
+  {
+    "label": "status",
+    "type": "keyword"
+  },
+  {
+    "label": "handle",
+    "type": "keyword"
+  },
+  {
+    "label": "radius",
+    "type": "keyword"
+  },
+  {
+    "label": "textPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "textFill",
+    "type": "keyword"
+  },
+  {
+    "label": "textBackgroundColor",
+    "type": "keyword"
+  },
+  {
+    "label": "textBorderRadius",
+    "type": "keyword"
+  },
+  {
+    "label": "textPadding",
+    "type": "keyword"
+  },
+  {
+    "label": "zoom",
+    "type": "keyword"
+  },
+  {
+    "label": "line",
+    "type": "keyword"
+  },
+  {
+    "label": "layout",
+    "type": "keyword"
+  },
+  {
+    "label": "r0",
+    "type": "keyword"
+  },
+  {
+    "label": "progressiveThreshold",
+    "type": "keyword"
+  },
+  {
+    "label": "calendarIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "offsetCenter",
+    "type": "keyword"
+  },
+  {
+    "label": "target",
+    "type": "keyword"
+  },
+  {
+    "label": "itemGap",
+    "type": "keyword"
+  },
+  {
+    "label": "minorSplitLine",
+    "type": "keyword"
+  },
+  {
+    "label": "realtime",
+    "type": "keyword"
+  },
+  {
+    "label": "bar",
+    "type": "keyword"
+  },
+  {
+    "label": "stack",
+    "type": "keyword"
+  },
+  {
+    "label": "roam",
+    "type": "keyword"
+  },
+  {
+    "label": "valueAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "link",
+    "type": "keyword"
+  },
+  {
+    "label": "inactiveColor",
+    "type": "keyword"
+  },
+  {
+    "label": "selected",
+    "type": "keyword"
+  },
+  {
+    "label": "trigger",
+    "type": "keyword"
+  },
+  {
+    "label": "axis",
+    "type": "keyword"
+  },
+  {
+    "label": "crossStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "end",
+    "type": "keyword"
+  },
+  {
+    "label": "seriesIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "inRange",
+    "type": "keyword"
+  },
+  {
+    "label": "outOfRange",
+    "type": "keyword"
+  },
+  {
+    "label": "labelMap",
+    "type": "keyword"
+  },
+  {
+    "label": "children",
+    "type": "keyword"
+  },
+  {
+    "label": "points",
+    "type": "keyword"
+  },
+  {
+    "label": "smoothConstraint",
+    "type": "keyword"
+  },
+  {
+    "label": "x1",
+    "type": "keyword"
+  },
+  {
+    "label": "y1",
+    "type": "keyword"
+  },
+  {
+    "label": "x2",
+    "type": "keyword"
+  },
+  {
+    "label": "y2",
+    "type": "keyword"
+  },
+  {
+    "label": "percent",
+    "type": "keyword"
+  },
+  {
+    "label": "endLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "large",
+    "type": "keyword"
+  },
+  {
+    "label": "largeThreshold",
+    "type": "keyword"
+  },
+  {
+    "label": "hoverAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "textVerticalAlign",
+    "type": "keyword"
+  },
+  {
+    "label": "itemWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "itemHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "filterMode",
+    "type": "keyword"
+  },
+  {
+    "label": "handleStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "brushStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "rect",
+    "type": "keyword"
+  },
+  {
+    "label": "polygon",
+    "type": "keyword"
+  },
+  {
+    "label": "scaleLimit",
+    "type": "keyword"
+  },
+  {
+    "label": "image",
+    "type": "keyword"
+  },
+  {
+    "label": "font",
+    "type": "keyword"
+  },
+  {
+    "label": "source",
+    "type": "keyword"
+  },
+  {
+    "label": "config",
+    "type": "keyword"
+  },
+  {
+    "label": "print",
+    "type": "keyword"
+  },
+  {
+    "label": "withlabel",
+    "type": "keyword"
+  },
+  {
+    "label": "withoutlabel",
+    "type": "keyword"
+  },
+  {
+    "label": "roundCap",
+    "type": "keyword"
+  },
+  {
+    "label": "barWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "barMaxWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "barMinWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "progressiveChunkMode",
+    "type": "keyword"
+  },
+  {
+    "label": "visualDimension",
+    "type": "keyword"
+  },
+  {
+    "label": "visualMin",
+    "type": "keyword"
+  },
+  {
+    "label": "visualMax",
+    "type": "keyword"
+  },
+  {
+    "label": "colorAlpha",
+    "type": "keyword"
+  },
+  {
+    "label": "colorSaturation",
+    "type": "keyword"
+  },
+  {
+    "label": "colorMappingBy",
+    "type": "keyword"
+  },
+  {
+    "label": "visibleMin",
+    "type": "keyword"
+  },
+  {
+    "label": "childrenVisibleMin",
+    "type": "keyword"
+  },
+  {
+    "label": "gapWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "borderColorSaturation",
+    "type": "keyword"
+  },
+  {
+    "label": "levels",
+    "type": "keyword"
+  },
+  {
+    "label": "inactiveWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "inactiveBorderColor",
+    "type": "keyword"
+  },
+  {
+    "label": "inactiveBorderWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "selectorLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "gridIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "alignTicks",
+    "type": "keyword"
+  },
+  {
+    "label": "onZero",
+    "type": "keyword"
+  },
+  {
+    "label": "onZeroAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "radar",
+    "type": "keyword"
+  },
+  {
+    "label": "dataZoom",
+    "type": "keyword"
+  },
+  {
+    "label": "radiusAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "angleAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "start",
+    "type": "keyword"
+  },
+  {
+    "label": "startValue",
+    "type": "keyword"
+  },
+  {
+    "label": "endValue",
+    "type": "keyword"
+  },
+  {
+    "label": "minSpan",
+    "type": "keyword"
+  },
+  {
+    "label": "maxSpan",
+    "type": "keyword"
+  },
+  {
+    "label": "minValueSpan",
+    "type": "keyword"
+  },
+  {
+    "label": "maxValueSpan",
+    "type": "keyword"
+  },
+  {
+    "label": "zoomLock",
+    "type": "keyword"
+  },
+  {
+    "label": "rangeMode",
+    "type": "keyword"
+  },
+  {
+    "label": "handleIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "handleSize",
+    "type": "keyword"
+  },
+  {
+    "label": "moveHandleStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "range",
+    "type": "keyword"
+  },
+  {
+    "label": "textGap",
+    "type": "keyword"
+  },
+  {
+    "label": "dimension",
+    "type": "keyword"
+  },
+  {
+    "label": "hoverLink",
+    "type": "keyword"
+  },
+  {
+    "label": "controller",
+    "type": "keyword"
+  },
+  {
+    "label": "categories",
+    "type": "keyword"
+  },
+  {
+    "label": "triggerOn",
+    "type": "keyword"
+  },
+  {
+    "label": "toolbox",
+    "type": "keyword"
+  },
+  {
+    "label": "itemSize",
+    "type": "keyword"
+  },
+  {
+    "label": "back",
+    "type": "keyword"
+  },
+  {
+    "label": "option",
+    "type": "keyword"
+  },
+  {
+    "label": "brush",
+    "type": "keyword"
+  },
+  {
+    "label": "lineX",
+    "type": "keyword"
+  },
+  {
+    "label": "lineY",
+    "type": "keyword"
+  },
+  {
+    "label": "keep",
+    "type": "keyword"
+  },
+  {
+    "label": "clear",
+    "type": "keyword"
+  },
+  {
+    "label": "brushType",
+    "type": "keyword"
+  },
+  {
+    "label": "projection",
+    "type": "keyword"
+  },
+  {
+    "label": "project",
+    "type": "keyword"
+  },
+  {
+    "label": "unproject",
+    "type": "keyword"
+  },
+  {
+    "label": "stream",
+    "type": "keyword"
+  },
+  {
+    "label": "aspectScale",
+    "type": "keyword"
+  },
+  {
+    "label": "boundingCoords",
+    "type": "keyword"
+  },
+  {
+    "label": "labelProperty",
+    "type": "keyword"
+  },
+  {
+    "label": "layoutCenter",
+    "type": "keyword"
+  },
+  {
+    "label": "layoutSize",
+    "type": "keyword"
+  },
+  {
+    "label": "parallel",
+    "type": "keyword"
+  },
+  {
+    "label": "parallelIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "checkpointStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "controlStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "progress",
+    "type": "keyword"
+  },
+  {
+    "label": "diffChildrenBylabel",
+    "type": "keyword"
+  },
+  {
+    "label": "polyline",
+    "type": "keyword"
+  },
+  {
+    "label": "cpx1",
+    "type": "keyword"
+  },
+  {
+    "label": "cpy1",
+    "type": "keyword"
+  },
+  {
+    "label": "cpx2",
+    "type": "keyword"
+  },
+  {
+    "label": "cpy2",
+    "type": "keyword"
+  },
+  {
+    "label": "series",
+    "type": "keyword"
+  },
+  {
+    "label": "maxCount",
+    "type": "keyword"
+  },
+  {
+    "label": "prefix",
+    "type": "keyword"
+  },
+  {
+    "label": "separator",
+    "type": "keyword"
+  },
+  {
+    "label": "middle",
+    "type": "keyword"
+  },
+  {
+    "label": "stackStrategy",
+    "type": "keyword"
+  },
+  {
+    "label": "sampling",
+    "type": "keyword"
+  },
+  {
+    "label": "barMinHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "barMinAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "barGap",
+    "type": "keyword"
+  },
+  {
+    "label": "barCategoryGap",
+    "type": "keyword"
+  },
+  {
+    "label": "period",
+    "type": "keyword"
+  },
+  {
+    "label": "nodeClick",
+    "type": "keyword"
+  },
+  {
+    "label": "nodes",
+    "type": "keyword"
+  },
+  {
+    "label": "links",
+    "type": "keyword"
+  },
+  {
+    "label": "edges",
+    "type": "keyword"
+  },
+  {
+    "label": "depth",
+    "type": "keyword"
+  },
+  {
+    "label": "detail",
+    "type": "keyword"
+  },
+  {
+    "label": "keepAspect",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolRepeat",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolRepeatDirection",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolMargin",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolClip",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolBoundingData",
+    "type": "keyword"
+  },
+  {
+    "label": "symbolPatternSize",
+    "type": "keyword"
+  },
+  {
+    "label": "subtext",
+    "type": "keyword"
+  },
+  {
+    "label": "sublink",
+    "type": "keyword"
+  },
+  {
+    "label": "subtarget",
+    "type": "keyword"
+  },
+  {
+    "label": "subtextStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "legend",
+    "type": "keyword"
+  },
+  {
+    "label": "scrollDataIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "pageButtonItemGap",
+    "type": "keyword"
+  },
+  {
+    "label": "pageButtonGap",
+    "type": "keyword"
+  },
+  {
+    "label": "pageButtonPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "pageFormatter",
+    "type": "keyword"
+  },
+  {
+    "label": "pageIcons",
+    "type": "keyword"
+  },
+  {
+    "label": "horizontal",
+    "type": "keyword"
+  },
+  {
+    "label": "vertical",
+    "type": "keyword"
+  },
+  {
+    "label": "pageIconColor",
+    "type": "keyword"
+  },
+  {
+    "label": "pageIconInactiveColor",
+    "type": "keyword"
+  },
+  {
+    "label": "pageIconSize",
+    "type": "keyword"
+  },
+  {
+    "label": "pageTextStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "selector",
+    "type": "keyword"
+  },
+  {
+    "label": "selectorPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "selectorItemGap",
+    "type": "keyword"
+  },
+  {
+    "label": "selectorButtonGap",
+    "type": "keyword"
+  },
+  {
+    "label": "grid",
+    "type": "keyword"
+  },
+  {
+    "label": "containLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "alignMinLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "alignMaxLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "verticalAlignMinLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "verticalAlignMaxLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "polar",
+    "type": "keyword"
+  },
+  {
+    "label": "radiusAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "angleAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "axislabel",
+    "type": "keyword"
+  },
+  {
+    "label": "indicator",
+    "type": "keyword"
+  },
+  {
+    "label": "zoomOnMouseWheel",
+    "type": "keyword"
+  },
+  {
+    "label": "moveOnMouseMove",
+    "type": "keyword"
+  },
+  {
+    "label": "moveOnMouseWheel",
+    "type": "keyword"
+  },
+  {
+    "label": "preventDefaultMouseMove",
+    "type": "keyword"
+  },
+  {
+    "label": "slider",
+    "type": "keyword"
+  },
+  {
+    "label": "dataBackground",
+    "type": "keyword"
+  },
+  {
+    "label": "selectedDataBackground",
+    "type": "keyword"
+  },
+  {
+    "label": "fillerColor",
+    "type": "keyword"
+  },
+  {
+    "label": "moveHandleIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "moveHandleSize",
+    "type": "keyword"
+  },
+  {
+    "label": "labelPrecision",
+    "type": "keyword"
+  },
+  {
+    "label": "labelFormatter",
+    "type": "keyword"
+  },
+  {
+    "label": "showDetail",
+    "type": "keyword"
+  },
+  {
+    "label": "showDataShadow",
+    "type": "keyword"
+  },
+  {
+    "label": "brushSelect",
+    "type": "keyword"
+  },
+  {
+    "label": "visualMap",
+    "type": "keyword"
+  },
+  {
+    "label": "continuous",
+    "type": "keyword"
+  },
+  {
+    "label": "calculable",
+    "type": "keyword"
+  },
+  {
+    "label": "indicatorIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "indicatorSize",
+    "type": "keyword"
+  },
+  {
+    "label": "indicatorStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "piecewise",
+    "type": "keyword"
+  },
+  {
+    "label": "pieces",
+    "type": "keyword"
+  },
+  {
+    "label": "minOpen",
+    "type": "keyword"
+  },
+  {
+    "label": "maxOpen",
+    "type": "keyword"
+  },
+  {
+    "label": "showLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "itemSymbol",
+    "type": "keyword"
+  },
+  {
+    "label": "showContent",
+    "type": "keyword"
+  },
+  {
+    "label": "alwaysShowContent",
+    "type": "keyword"
+  },
+  {
+    "label": "showDelay",
+    "type": "keyword"
+  },
+  {
+    "label": "hideDelay",
+    "type": "keyword"
+  },
+  {
+    "label": "enterable",
+    "type": "keyword"
+  },
+  {
+    "label": "renderMode",
+    "type": "keyword"
+  },
+  {
+    "label": "confine",
+    "type": "keyword"
+  },
+  {
+    "label": "appendToBody",
+    "type": "keyword"
+  },
+  {
+    "label": "appendTo",
+    "type": "keyword"
+  },
+  {
+    "label": "classlabel",
+    "type": "keyword"
+  },
+  {
+    "label": "transitionDuration",
+    "type": "keyword"
+  },
+  {
+    "label": "order",
+    "type": "keyword"
+  },
+  {
+    "label": "showTitle",
+    "type": "keyword"
+  },
+  {
+    "label": "feature",
+    "type": "keyword"
+  },
+  {
+    "label": "saveAsImage",
+    "type": "keyword"
+  },
+  {
+    "label": "connectedBackgroundColor",
+    "type": "keyword"
+  },
+  {
+    "label": "excludeComponents",
+    "type": "keyword"
+  },
+  {
+    "label": "pixelRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "restore",
+    "type": "keyword"
+  },
+  {
+    "label": "dataView",
+    "type": "keyword"
+  },
+  {
+    "label": "readOnly",
+    "type": "keyword"
+  },
+  {
+    "label": "optionToContent",
+    "type": "keyword"
+  },
+  {
+    "label": "contentToOption",
+    "type": "keyword"
+  },
+  {
+    "label": "lang",
+    "type": "keyword"
+  },
+  {
+    "label": "textareaColor",
+    "type": "keyword"
+  },
+  {
+    "label": "textareaBorderColor",
+    "type": "keyword"
+  },
+  {
+    "label": "textColor",
+    "type": "keyword"
+  },
+  {
+    "label": "buttonColor",
+    "type": "keyword"
+  },
+  {
+    "label": "buttonTextColor",
+    "type": "keyword"
+  },
+  {
+    "label": "magicType",
+    "type": "keyword"
+  },
+  {
+    "label": "tiled",
+    "type": "keyword"
+  },
+  {
+    "label": "brushLink",
+    "type": "keyword"
+  },
+  {
+    "label": "brushMode",
+    "type": "keyword"
+  },
+  {
+    "label": "transformable",
+    "type": "keyword"
+  },
+  {
+    "label": "throttleType",
+    "type": "keyword"
+  },
+  {
+    "label": "throttleDelay",
+    "type": "keyword"
+  },
+  {
+    "label": "removeOnClick",
+    "type": "keyword"
+  },
+  {
+    "label": "inBrush",
+    "type": "keyword"
+  },
+  {
+    "label": "outOfBrush",
+    "type": "keyword"
+  },
+  {
+    "label": "geo",
+    "type": "keyword"
+  },
+  {
+    "label": "regions",
+    "type": "keyword"
+  },
+  {
+    "label": "axisExpandable",
+    "type": "keyword"
+  },
+  {
+    "label": "axisExpandCenter",
+    "type": "keyword"
+  },
+  {
+    "label": "axisExpandCount",
+    "type": "keyword"
+  },
+  {
+    "label": "axisExpandWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "axisExpandTriggerOn",
+    "type": "keyword"
+  },
+  {
+    "label": "parallelAxisDefault",
+    "type": "keyword"
+  },
+  {
+    "label": "parallelAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "dim",
+    "type": "keyword"
+  },
+  {
+    "label": "areaSelectStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "singleAxis",
+    "type": "keyword"
+  },
+  {
+    "label": "timeline",
+    "type": "keyword"
+  },
+  {
+    "label": "axisType",
+    "type": "keyword"
+  },
+  {
+    "label": "currentIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "autoPlay",
+    "type": "keyword"
+  },
+  {
+    "label": "rewind",
+    "type": "keyword"
+  },
+  {
+    "label": "playInterval",
+    "type": "keyword"
+  },
+  {
+    "label": "replaceMerge",
+    "type": "keyword"
+  },
+  {
+    "label": "controlPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "showPlayBtn",
+    "type": "keyword"
+  },
+  {
+    "label": "showPrevBtn",
+    "type": "keyword"
+  },
+  {
+    "label": "showNextBtn",
+    "type": "keyword"
+  },
+  {
+    "label": "playIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "stopIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "prevIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "nextIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "graphic",
+    "type": "keyword"
+  },
+  {
+    "label": "elements",
+    "type": "keyword"
+  },
+  {
+    "label": "group",
+    "type": "keyword"
+  },
+  {
+    "label": "circle",
+    "type": "keyword"
+  },
+  {
+    "label": "ring",
+    "type": "keyword"
+  },
+  {
+    "label": "sector",
+    "type": "keyword"
+  },
+  {
+    "label": "arc",
+    "type": "keyword"
+  },
+  {
+    "label": "bezierCurve",
+    "type": "keyword"
+  },
+  {
+    "label": "calendar",
+    "type": "keyword"
+  },
+  {
+    "label": "cellSize",
+    "type": "keyword"
+  },
+  {
+    "label": "dayLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "firstDay",
+    "type": "keyword"
+  },
+  {
+    "label": "monthLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "yearLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "dataset",
+    "type": "keyword"
+  },
+  {
+    "label": "sourceHeader",
+    "type": "keyword"
+  },
+  {
+    "label": "transform",
+    "type": "keyword"
+  },
+  {
+    "label": "xxx:xxx",
+    "type": "keyword"
+  },
+  {
+    "label": "fromDatasetIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "fromDatasetId",
+    "type": "keyword"
+  },
+  {
+    "label": "fromTransformResult",
+    "type": "keyword"
+  },
+  {
+    "label": "aria",
+    "type": "keyword"
+  },
+  {
+    "label": "description",
+    "type": "keyword"
+  },
+  {
+    "label": "general",
+    "type": "keyword"
+  },
+  {
+    "label": "withTitle",
+    "type": "keyword"
+  },
+  {
+    "label": "withoutTitle",
+    "type": "keyword"
+  },
+  {
+    "label": "single",
+    "type": "keyword"
+  },
+  {
+    "label": "multiple",
+    "type": "keyword"
+  },
+  {
+    "label": "allData",
+    "type": "keyword"
+  },
+  {
+    "label": "partialData",
+    "type": "keyword"
+  },
+  {
+    "label": "decals",
+    "type": "keyword"
+  },
+  {
+    "label": "showSymbol",
+    "type": "keyword"
+  },
+  {
+    "label": "showAllSymbol",
+    "type": "keyword"
+  },
+  {
+    "label": "connectNulls",
+    "type": "keyword"
+  },
+  {
+    "label": "triggerLineEvent",
+    "type": "keyword"
+  },
+  {
+    "label": "step",
+    "type": "keyword"
+  },
+  {
+    "label": "smoothMonotone",
+    "type": "keyword"
+  },
+  {
+    "label": "realtimeSort",
+    "type": "keyword"
+  },
+  {
+    "label": "showBackground",
+    "type": "keyword"
+  },
+  {
+    "label": "backgroundStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "pie",
+    "type": "keyword"
+  },
+  {
+    "label": "selectedOffset",
+    "type": "keyword"
+  },
+  {
+    "label": "padAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "minShowLabelAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "roseType",
+    "type": "keyword"
+  },
+  {
+    "label": "avoidLabelOverlap",
+    "type": "keyword"
+  },
+  {
+    "label": "stillShowZeroSum",
+    "type": "keyword"
+  },
+  {
+    "label": "percentPrecision",
+    "type": "keyword"
+  },
+  {
+    "label": "showEmptyCircle",
+    "type": "keyword"
+  },
+  {
+    "label": "emptyCircleStyle",
+    "type": "keyword"
+  },
+  {
+    "label": "alignTo",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeDistance",
+    "type": "keyword"
+  },
+  {
+    "label": "bleedMargin",
+    "type": "keyword"
+  },
+  {
+    "label": "distanceToLabelLine",
+    "type": "keyword"
+  },
+  {
+    "label": "maxSurfaceAngle",
+    "type": "keyword"
+  },
+  {
+    "label": "scaleSize",
+    "type": "keyword"
+  },
+  {
+    "label": "animationType",
+    "type": "keyword"
+  },
+  {
+    "label": "animationTypeUpdate",
+    "type": "keyword"
+  },
+  {
+    "label": "scatter",
+    "type": "keyword"
+  },
+  {
+    "label": "effectScatter",
+    "type": "keyword"
+  },
+  {
+    "label": "effectType",
+    "type": "keyword"
+  },
+  {
+    "label": "showEffectOn",
+    "type": "keyword"
+  },
+  {
+    "label": "rippleEffect",
+    "type": "keyword"
+  },
+  {
+    "label": "number",
+    "type": "keyword"
+  },
+  {
+    "label": "radarIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "tree",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeShape",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeForkPosition",
+    "type": "keyword"
+  },
+  {
+    "label": "expandAndCollapse",
+    "type": "keyword"
+  },
+  {
+    "label": "initialTreeDepth",
+    "type": "keyword"
+  },
+  {
+    "label": "leaves",
+    "type": "keyword"
+  },
+  {
+    "label": "collapsed",
+    "type": "keyword"
+  },
+  {
+    "label": "treemap",
+    "type": "keyword"
+  },
+  {
+    "label": "squareRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "leafDepth",
+    "type": "keyword"
+  },
+  {
+    "label": "drillDownIcon",
+    "type": "keyword"
+  },
+  {
+    "label": "zoomToNodeRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "breadcrumb",
+    "type": "keyword"
+  },
+  {
+    "label": "emptyItemWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "sunburst",
+    "type": "keyword"
+  },
+  {
+    "label": "renderLabelForZeroData",
+    "type": "keyword"
+  },
+  {
+    "label": "boxplot",
+    "type": "keyword"
+  },
+  {
+    "label": "boxWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "candlestick",
+    "type": "keyword"
+  },
+  {
+    "label": "heatmap",
+    "type": "keyword"
+  },
+  {
+    "label": "pointSize",
+    "type": "keyword"
+  },
+  {
+    "label": "blurSize",
+    "type": "keyword"
+  },
+  {
+    "label": "minOpacity",
+    "type": "keyword"
+  },
+  {
+    "label": "maxOpacity",
+    "type": "keyword"
+  },
+  {
+    "label": "mapValueCalculation",
+    "type": "keyword"
+  },
+  {
+    "label": "showLegendSymbol",
+    "type": "keyword"
+  },
+  {
+    "label": "inactiveOpacity",
+    "type": "keyword"
+  },
+  {
+    "label": "activeOpacity",
+    "type": "keyword"
+  },
+  {
+    "label": "lines",
+    "type": "keyword"
+  },
+  {
+    "label": "effect",
+    "type": "keyword"
+  },
+  {
+    "label": "constantSpeed",
+    "type": "keyword"
+  },
+  {
+    "label": "trailLength",
+    "type": "keyword"
+  },
+  {
+    "label": "roundTrip",
+    "type": "keyword"
+  },
+  {
+    "label": "coords",
+    "type": "keyword"
+  },
+  {
+    "label": "graph",
+    "type": "keyword"
+  },
+  {
+    "label": "circular",
+    "type": "keyword"
+  },
+  {
+    "label": "rotateLabel",
+    "type": "keyword"
+  },
+  {
+    "label": "force",
+    "type": "keyword"
+  },
+  {
+    "label": "initLayout",
+    "type": "keyword"
+  },
+  {
+    "label": "repulsion",
+    "type": "keyword"
+  },
+  {
+    "label": "gravity",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeLength",
+    "type": "keyword"
+  },
+  {
+    "label": "layoutAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "friction",
+    "type": "keyword"
+  },
+  {
+    "label": "nodeScaleRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeSymbol",
+    "type": "keyword"
+  },
+  {
+    "label": "edgeSymbolSize",
+    "type": "keyword"
+  },
+  {
+    "label": "autoCurveness",
+    "type": "keyword"
+  },
+  {
+    "label": "fixed",
+    "type": "keyword"
+  },
+  {
+    "label": "category",
+    "type": "keyword"
+  },
+  {
+    "label": "ignoreForceLayout",
+    "type": "keyword"
+  },
+  {
+    "label": "sankey",
+    "type": "keyword"
+  },
+  {
+    "label": "nodeWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "nodeGap",
+    "type": "keyword"
+  },
+  {
+    "label": "nodeAlign",
+    "type": "keyword"
+  },
+  {
+    "label": "layoutIterations",
+    "type": "keyword"
+  },
+  {
+    "label": "funnel",
+    "type": "keyword"
+  },
+  {
+    "label": "minSize",
+    "type": "keyword"
+  },
+  {
+    "label": "maxSize",
+    "type": "keyword"
+  },
+  {
+    "label": "gap",
+    "type": "keyword"
+  },
+  {
+    "label": "funnelAlign",
+    "type": "keyword"
+  },
+  {
+    "label": "gauge",
+    "type": "keyword"
+  },
+  {
+    "label": "overlap",
+    "type": "keyword"
+  },
+  {
+    "label": "pointer",
+    "type": "keyword"
+  },
+  {
+    "label": "anchor",
+    "type": "keyword"
+  },
+  {
+    "label": "pictorialBar",
+    "type": "keyword"
+  },
+  {
+    "label": "themeRiver",
+    "type": "keyword"
+  },
+  {
+    "label": "singleAxisIndex",
+    "type": "keyword"
+  },
+  {
+    "label": "date",
+    "type": "keyword"
+  },
+  {
+    "label": "custom",
+    "type": "keyword"
+  },
+  {
+    "label": "renderItem",
+    "type": "keyword"
+  },
+  {
+    "label": "params",
+    "type": "keyword"
+  },
+  {
+    "label": "api",
+    "type": "keyword"
+  },
+  {
+    "label": "styleEmphasis",
+    "type": "keyword"
+  },
+  {
+    "label": "visual",
+    "type": "keyword"
+  },
+  {
+    "label": "barLayout",
+    "type": "keyword"
+  },
+  {
+    "label": "currentSeriesIndices",
+    "type": "keyword"
+  },
+  {
+    "label": "getWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "getHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "getZr",
+    "type": "keyword"
+  },
+  {
+    "label": "getDevicePixelRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "return",
+    "type": "keyword"
+  },
+  {
+    "label": "return_group",
+    "type": "keyword"
+  },
+  {
+    "label": "return_path",
+    "type": "keyword"
+  },
+  {
+    "label": "pathData",
+    "type": "keyword"
+  },
+  {
+    "label": "d",
+    "type": "keyword"
+  },
+  {
+    "label": "return_image",
+    "type": "keyword"
+  },
+  {
+    "label": "return_text",
+    "type": "keyword"
+  },
+  {
+    "label": "return_rect",
+    "type": "keyword"
+  },
+  {
+    "label": "return_circle",
+    "type": "keyword"
+  },
+  {
+    "label": "return_ring",
+    "type": "keyword"
+  },
+  {
+    "label": "return_sector",
+    "type": "keyword"
+  },
+  {
+    "label": "return_arc",
+    "type": "keyword"
+  },
+  {
+    "label": "return_polygon",
+    "type": "keyword"
+  },
+  {
+    "label": "return_polyline",
+    "type": "keyword"
+  },
+  {
+    "label": "return_line",
+    "type": "keyword"
+  },
+  {
+    "label": "return_bezierCurve",
+    "type": "keyword"
+  },
+  {
+    "label": "darkMode",
+    "type": "keyword"
+  },
+  {
+    "label": "stateAnimation",
+    "type": "keyword"
+  },
+  {
+    "label": "blendMode",
+    "type": "keyword"
+  },
+  {
+    "label": "hoverLayerThreshold",
+    "type": "keyword"
+  },
+  {
+    "label": "useUTC",
+    "type": "keyword"
+  },
+  {
+    "label": "options",
+    "type": "keyword"
+  },
+  {
+    "label": "media",
+    "type": "keyword"
+  },
+  {
+    "label": "query",
+    "type": "keyword"
+  },
+  {
+    "label": "minWidth",
+    "type": "keyword"
+  },
+  {
+    "label": "maxHeight",
+    "type": "keyword"
+  },
+  {
+    "label": "minAspectRatio",
+    "type": "keyword"
+  },
+  {
+    "label": "console",
+    "type": "keyword"
+  },
+  {
+    "label": "alert",
+    "type": "keyword"
+  },
+  {
+    "label": "prompt",
+    "type": "keyword"
+  },
+  {
+    "label": "confirm",
+    "type": "keyword"
+  },
+  {
+    "label": "document",
+    "type": "keyword"
+  },
+  {
+    "label": "history",
+    "type": "keyword"
+  },
+  {
+    "label": "localStorage",
+    "type": "keyword"
+  },
+  {
+    "label": "sessionStorage",
+    "type": "keyword"
+  },
+  {
+    "label": "window",
+    "type": "keyword"
+  },
+  {
+    "label": "addEventListener",
+    "type": "keyword"
+  },
+  {
+    "label": "removeEventListener",
+    "type": "keyword"
+  },
+  {
+    "label": "setTimeout",
+    "type": "keyword"
+  },
+  {
+    "label": "setInterval",
+    "type": "keyword"
+  },
+  {
+    "label": "clearTimeout",
+    "type": "keyword"
+  },
+  {
+    "label": "clearInterval",
+    "type": "keyword"
+  },
+  {
+    "label": "fetch",
+    "type": "keyword"
+  },
+  {
+    "label": "XMLHttpRequest",
+    "type": "keyword"
+  },
+  {
+    "label": "Math",
+    "type": "keyword"
+  },
+  {
+    "label": "JSON",
+    "type": "keyword"
+  },
+  {
+    "label": "Array",
+    "type": "keyword"
+  },
+  {
+    "label": "String",
+    "type": "keyword"
+  },
+  {
+    "label": "Number",
+    "type": "keyword"
+  },
+  {
+    "label": "Date",
+    "type": "keyword"
+  },
+  {
+    "label": "RegExp",
+    "type": "keyword"
+  },
+  {
+    "label": "NaN",
+    "type": "keyword"
+  },
+  {
+    "label": "Infinity",
+    "type": "keyword"
+  },
+  {
+    "label": "undefined",
+    "type": "keyword"
+  },
+  {
+    "label": "null",
+    "type": "keyword"
+  },
+  {
+    "label": "true",
+    "type": "keyword"
+  },
+  {
+    "label": "false",
+    "type": "keyword"
+  },
+  {
+    "label": "exports",
+    "type": "keyword"
+  },
+  {
+    "label": "break",
+    "type": "keyword"
+  },
+  {
+    "label": "case",
+    "type": "keyword"
+  },
+  {
+    "label": "catch",
+    "type": "keyword"
+  },
+  {
+    "label": "class",
+    "type": "keyword"
+  },
+  {
+    "label": "const",
+    "type": "keyword"
+  },
+  {
+    "label": "continue",
+    "type": "keyword"
+  },
+  {
+    "label": "debugger",
+    "type": "keyword"
+  },
+  {
+    "label": "default",
+    "type": "keyword"
+  },
+  {
+    "label": "delete",
+    "type": "keyword"
+  },
+  {
+    "label": "do",
+    "type": "keyword"
+  },
+  {
+    "label": "else",
+    "type": "keyword"
+  },
+  {
+    "label": "export",
+    "type": "keyword"
+  },
+  {
+    "label": "extends",
+    "type": "keyword"
+  },
+  {
+    "label": "finally",
+    "type": "keyword"
+  },
+  {
+    "label": "for",
+    "type": "keyword"
+  },
+  {
+    "label": "if",
+    "type": "keyword"
+  },
+  {
+    "label": "import",
+    "type": "keyword"
+  },
+  {
+    "label": "in",
+    "type": "keyword"
+  },
+  {
+    "label": "instanceof",
+    "type": "keyword"
+  },
+  {
+    "label": "new",
+    "type": "keyword"
+  },
+  {
+    "label": "return",
+    "type": "keyword"
+  },
+  {
+    "label": "switch",
+    "type": "keyword"
+  },
+  {
+    "label": "throw",
+    "type": "keyword"
+  },
+  {
+    "label": "try",
+    "type": "keyword"
+  },
+  {
+    "label": "typeof",
+    "type": "keyword"
+  },
+  {
+    "label": "var",
+    "type": "keyword"
+  },
+  {
+    "label": "void",
+    "type": "keyword"
+  },
+  {
+    "label": "while",
+    "type": "keyword"
+  },
+  {
+    "label": "with",
+    "type": "keyword"
+  },
+  {
+    "label": "yield",
+    "type": "keyword"
+  },
+  {
+    "label": "toString",
+    "type": "keyword"
+  },
+  {
+    "label": "valueOf",
+    "type": "keyword"
+  },
+  {
+    "label": "toFixed",
+    "type": "keyword"
+  },
+  {
+    "label": "charAt",
+    "type": "keyword"
+  },
+  {
+    "label": "indexOf",
+    "type": "keyword"
+  },
+  {
+    "label": "replace",
+    "type": "keyword"
+  },
+  {
+    "label": "slice",
+    "type": "keyword"
+  },
+  {
+    "label": "toUpperCase",
+    "type": "keyword"
+  },
+  {
+    "label": "toLowerCase",
+    "type": "keyword"
+  },
+  {
+    "label": "substring",
+    "type": "keyword"
+  },
+  {
+    "label": "split",
+    "type": "keyword"
+  },
+  {
+    "label": "push",
+    "type": "keyword"
+  },
+  {
+    "label": "pop",
+    "type": "keyword"
+  },
+  {
+    "label": "shift",
+    "type": "keyword"
+  },
+  {
+    "label": "unshift",
+    "type": "keyword"
+  },
+  {
+    "label": "join",
+    "type": "keyword"
+  },
+  {
+    "label": "reverse",
+    "type": "keyword"
+  },
+  {
+    "label": "sort",
+    "type": "keyword"
+  },
+  {
+    "label": "filter",
+    "type": "keyword"
+  },
+  {
+    "label": "map",
+    "type": "keyword"
+  },
+  {
+    "label": "reduce",
+    "type": "keyword"
+  },
+  {
+    "label": "forEach",
+    "type": "keyword"
+  },
+  {
+    "label": "parseInt",
+    "type": "keyword"
+  },
+  {
+    "label": "parseFloat",
+    "type": "keyword"
+  },
+  {
+    "label": "isNaN",
+    "type": "keyword"
+  },
+  {
+    "label": "isFinite",
+    "type": "keyword"
+  },
+  {
+    "label": "arguments",
+    "type": "keyword"
+  },
+  {
+    "label": "this",
+    "type": "keyword"
+  },
+  {
+    "label": "click",
+    "type": "keyword"
+  },
+  {
+    "label": "mouseover",
+    "type": "keyword"
+  },
+  {
+    "label": "keydown",
+    "type": "keyword"
+  },
+  {
+    "label": "resize",
+    "type": "keyword"
+  },
+  {
+    "label": "scroll",
+    "type": "keyword"
+  },
+  {
+    "label": "submit",
+    "type": "keyword"
+  },
+  {
+    "label": "change",
+    "type": "keyword"
+  },
+  {
+    "label": "input",
+    "type": "keyword"
+  },
+  {
+    "label": "trim",
+    "type": "keyword"
+  },
+  {
+    "label": "addEventListener",
+    "type": "keyword"
+  },
+  {
+    "label": "removeEventListener",
+    "type": "keyword"
+  },
+  {
+    "label": "preventDefault",
+    "type": "keyword"
+  },
+  {
+    "label": "stopPropagation",
+    "type": "keyword"
+  },
+  {
+    "label": "length",
+    "type": "keyword"
+  }
+]
